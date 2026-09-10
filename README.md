@@ -1,4 +1,12 @@
-##
+## Problem Statement ID
+
+26031
+
+## Problem Statement Title
+
+Quality assessment and grading of onions are often subjective and vary across procurement centers, resulting in disputes and inconsistencies.
+
+## Description
 
 Expected Solution: Develop an AI-based mobile application that:
 
@@ -7,3 +15,7 @@ Expected Solution: Develop an AI-based mobile application that:
 - Estimates Grade A and URS percentages.
 - Generates a digital quality report instantly.
 - Reduces human bias and improves transparency.
+
+## Organization
+
+Ministry of Consumer Affairs, Food & Public Distribution
