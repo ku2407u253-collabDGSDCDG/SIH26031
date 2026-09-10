@@ -26,3 +26,8 @@ Department of Consumer Affairs (DoCA)
 
 ## Category
 
+Software
+
+## Theme
+
+Smart Automation
