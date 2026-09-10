@@ -34,4 +34,4 @@ Smart Automation
 
 # https://github.com/ku2407u253-collabDGSDCDG/SIH26031/blob/main/IdeaTitle.md # Idea Title
 
-#   # 
+#   # Technical Approch
