@@ -19,3 +19,10 @@ Expected Solution: Develop an AI-based mobile application that:
 ## Organization
 
 Ministry of Consumer Affairs, Food & Public Distribution
+
+## Department
+
+Department of Consumer Affairs (DoCA)
+
+## Category
+
